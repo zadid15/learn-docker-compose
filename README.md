@@ -5,7 +5,7 @@
 
 ## 👋 Welcome!
 
-This is my "**Learn Docker Compose**" repository, where I'm documenting my journey of learning Docker Compose from scratch based on the **Programmer Zaman Now (PZN)** course on YouTube.  
+This is my "**Learn Docker Compose**" repository, where I'm documenting my journey of learning Docker Compose from scratch based on the **Programmer Zaman Now (PZN)** course on YouTube. All instructions are written with comments to help understanding and reuse.
 
 ---
 
