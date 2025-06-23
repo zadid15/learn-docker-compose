@@ -1,0 +1,16 @@
+firstName: Muhammad 
+lastName: Zadid
+hobbies:
+  - Reading
+  - Coding
+  - Writing
+address:
+  street: Jalan Raya No. 123
+  city: Kediri
+  province: East Java
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 100000000
+  - type: debit
+    amount: 500000000
